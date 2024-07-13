@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibbo116&label=Profile%20views&color=0e75b6&style=flat" alt="dibbo116" /> </p>
 
-- 🔭 I’m currently working on **INCTL ERP project**
-
-- 🌱 I’m currently learning **ErpNext, FRappe**
-
 - 📫 How to reach me **Dibbo.barua16@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/borgv84mf9](https://flowcv.com/resume/borgv84mf9)
