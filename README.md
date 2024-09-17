@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dibbo Barua Chamak</h1>
-<h3 align="center">Web Developer From Bangladesh</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibbo116&label=Profile%20views&color=0e75b6&style=flat" alt="dibbo116" /> </p>
 
